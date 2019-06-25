@@ -31,6 +31,22 @@
       "loc": "277 Princess Street",
       "type": "45 Gallon",
       "fill": 98
+    },
+    {
+      "id": 925814,
+      "lat": 44.226,
+      "long": -76.494,
+      "loc": "277 Princess Street",
+      "type": "45 Gallon",
+      "fill": 98
+    },
+    {
+      "id": 925814,
+      "lat": 46.232,
+      "long": -76.492,
+      "loc": "277 Princess Street",
+      "type": "45 Gallon",
+      "fill": 98
     }
   ]
 }
