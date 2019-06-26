@@ -2,38 +2,38 @@
   "bins": [
     {
       "id": 295721,
-      "lat": 46.1799,
-      "long": -76.1624,
+      "lat": 44.231,
+      "long": -76.458,
       "loc": "277 Princess Street",
       "type": "45 Gallon",
       "fill": 33
     },
     {
       "id": 258253,
-      "lat": 46.2591,
-      "long": -76.1256,
+      "lat": 44.226,
+      "long": -76.487,
       "loc": "297 Brock Street",
       "type": "45 Gallon",
       "fill": 71
     },
     {
       "id": 105282,
-      "lat": 46.1787,
-      "long": -76.1734,
+      "lat": 46.230,
+      "long": -76.479,
       "loc": "17 Albert Street",
       "type": "25 Gallon",
       "fill": 7
     },
     {
       "id": 925814,
-      "lat": 46.1813,
-      "long": -76.1663,
+      "lat": 46.223,
+      "long": -76.492,
       "loc": "277 Princess Street",
       "type": "45 Gallon",
       "fill": 98
     },
     {
-      "id": 925814,
+      "id": 925815,
       "lat": 44.226,
       "long": -76.494,
       "loc": "277 Princess Street",
@@ -41,7 +41,7 @@
       "fill": 98
     },
     {
-      "id": 925814,
+      "id": 925816,
       "lat": 46.232,
       "long": -76.492,
       "loc": "277 Princess Street",
