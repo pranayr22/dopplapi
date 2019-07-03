@@ -6,7 +6,9 @@
       "long": -76.458,
       "loc": "277 Princess Street",
       "type": "45 Gallon",
-      "fill": 33
+      "fill": 33,
+      "service": 1562186525,
+      "detect" : 1562176525
     },
     {
       "id": 258253,
@@ -14,7 +16,9 @@
       "long": -76.487,
       "loc": "297 Brock Street",
       "type": "45 Gallon",
-      "fill": 71
+      "fill": 71,
+      "service": 1562165525,
+      "detect" : 1562163525
     },
     {
       "id": 105282,
@@ -22,7 +26,9 @@
       "long": -76.479,
       "loc": "17 Albert Street",
       "type": "25 Gallon",
-      "fill": 7
+      "fill": 7,
+      "service": 1562065525,
+      "detect" : 1562053525
     },
     {
       "id": 925814,
@@ -30,7 +36,9 @@
       "long": -76.492,
       "loc": "277 Princess Street",
       "type": "45 Gallon",
-      "fill": 98
+      "fill": 98,
+      "service": 1562155525,
+      "detect" : 1562153525
     },
     {
       "id": 925815,
@@ -38,7 +46,9 @@
       "long": -76.494,
       "loc": "277 Princess Street",
       "type": "45 Gallon",
-      "fill": 98
+      "fill": 98,
+      "service": 1562045525,
+      "detect" : 1562033525
     },
     {
       "id": 925816,
@@ -46,7 +56,9 @@
       "long": -76.492,
       "loc": "277 Princess Street",
       "type": "45 Gallon",
-      "fill": 98
+      "fill": 98,
+      "service": 1561165525,
+      "detect" : 1561063525
     }
   ]
 }
